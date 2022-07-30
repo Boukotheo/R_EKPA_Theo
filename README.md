@@ -1,2 +1,2 @@
-# R_EKPA_Theo
+# Example of README.md
 Theo Exercise trial 
